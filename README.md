@@ -18,19 +18,19 @@
 1. Clone the repository
 
    ```
-
+   git clone https://github.com/Passant-Abdelgalil/vueShop.git
    ```
 
 2. Navigate to the directory
 
    ```
-
+   cd vueShop
    ```
 
 3. Install dependencies
 
    ```
-
+   npm i
    ```
 
 ### Compiles and hot-reloads for development
